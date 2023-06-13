@@ -2,7 +2,7 @@
 
 **`Gold Scholar + CompE @ Georgia Tech`**
 
-Description?logo=icons8-linkedin-32
+My name is Timothy Ninan, and I’m currently a Computer Engineering major and Gold Scholar at Georgia Tech. At the intersection of software and hardware, I seek to develop complete computational solutions that focus on efficacy and efficiency. From transistors and logic gates to algorithms and machine learning, I approach each problem with a thorough understanding of technology from the bottom up, minimizing cost, time, and energy while maximizing ease of use, versatility, and results.
 
  <p align="left">
       <a href="https://www.linkedin.com/TimothyNinan">
