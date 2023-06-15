@@ -4,7 +4,7 @@
 
 My name is Timothy Ninan, and I’m currently a Computer Engineering major and Gold Scholar at Georgia Tech. At the intersection of software and hardware, I seek to develop complete computational solutions that focus on efficacy and efficiency. From transistors and logic gates to algorithms and machine learning, I approach each problem with a thorough understanding of technology from the bottom up, minimizing cost, time, and energy while maximizing ease of use, versatility, and results.
 
- <p align="left">
+<!-- <p align="left">
       <a href="https://www.linkedin.com/TimothyNinan">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=CONNECT&logo=icons8-linkedin-64&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/fknight">
@@ -14,6 +14,7 @@ My name is Timothy Ninan, and I’m currently a Computer Engineering major and G
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+   -->
 
 [//]: <> (Comment for Inline Custom Links [Text you see][linkVariable])
 
